@@ -15,7 +15,7 @@ error_reporting(0);
 <div class="container mt-3">
 <nav class="navbar bg-dark border-warning navbar-dark border rounded">
     <h3 class="text-primary">Uske Number...</h3>
-    <a class="text-right mb-1" href="uske_new_N.php"><img src="images/new.png"/></a>
+    <a class="text-right mb-1" href="uske_new_N.php"><img src="_________"/></a>
     <input class="form-control" id="myInput" type="text" placeholder="Search">
    </nav>
   <br>
